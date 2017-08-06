@@ -81,7 +81,7 @@ your model:
 	from save_the_change.decorators import SaveTheChange
 	
 	@SaveTheChange
-	class Knight(models.model):
+	class Knight(models.Model):
 		...
 
 
